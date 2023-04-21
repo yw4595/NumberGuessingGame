@@ -1,0 +1,12 @@
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\obj\Debug\Multiple Forms.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\obj\Debug\Multiple Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\obj\Debug\Multiple_Forms.Properties.Resources.resources
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\obj\Debug\Multiple Forms.csproj.GenerateResource.cache
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\obj\Debug\Multiple Forms.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\bin\Debug\Multiple Forms.exe.config
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\bin\Debug\Multiple Forms.exe
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\bin\Debug\Multiple Forms.pdb
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\obj\Debug\Multiple_Forms.Form1.resources
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\obj\Debug\Multiple Forms.exe
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\obj\Debug\Multiple Forms.pdb
+C:\Users\Wiz\Desktop\IGME 201\Multiple Forms\obj\Debug\Multiple_Forms.GameForm.resources
